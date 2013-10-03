@@ -15,7 +15,7 @@ If you do not want to use SDL or can not use SDL you can uncomment the fourth li
 
 ## How to use
 
-Type `make` to build everything except the bench tools
-Type `make tools` to build everything
-The `bin/` directory contains every executable built
+Type `make` to build everything except the bench tools  
+Type `make tools` to build everything  
+The `bin/` directory contains every executable built  
 Execute a binary without arguments to see how to you use it
